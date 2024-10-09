@@ -3,6 +3,8 @@
 ## Project Overview
 This project focuses on analyzing employee attrition using a Power BI dashboard to provide actionable insights for HR management. The dashboard visualizes key performance indicators (KPIs) related to employee demographics, job roles, satisfaction scores, and attrition rates. The insights generated from this analysis helped reduce turnover and improve overall employee satisfaction.
 
+![Screenshot (39)](https://github.com/user-attachments/assets/3f5d8a76-a67c-4acb-abc9-8b520e91ca8d)
+
 ## Key Features
 - **Interactive Dashboard**: Real-time insights into employee attrition and satisfaction metrics.
 - **Data Analysis**: Analyzed 38 variables from HR datasets, including demographics, salary, tenure, and job roles.
