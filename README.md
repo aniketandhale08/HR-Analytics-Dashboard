@@ -25,7 +25,7 @@ This project focuses on analyzing employee attrition using a Power BI dashboard 
 ## How to Use
 1. Clone the repository:  
    `git clone https://github.com/aniketandhale08/HR-Analytics-Dashboard`  
-3. Open the Power BI file (`Employee_Attrition_Dashboard.pbix`) in Power BI Desktop.
+3. Open the Power BI file (`HR_Data.pbix`) in Power BI Desktop.
 4. Explore the various visualizations and use the interactive filters to dive into specific insights.
 5. For further customization, modify the dataset or visualizations as needed.
 
